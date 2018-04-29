@@ -1,5 +1,3 @@
-# uArm - Light Printing
-
 Light Printing for uArm Swift Pro
 
 Quick Step
