@@ -13,4 +13,7 @@ Save the data file into *.csv format
 
 Step 3:
 Use the PY source code to control uArm Swift Pro
+<<<<<<< HEAD
 
+=======
+>>>>>>> dbcb0122be86c1689495e62572b2c84678634174
